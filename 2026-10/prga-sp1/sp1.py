@@ -1,3 +1,5 @@
+# Tady bude tvůj kód žáka (např. IT2-07)
+# 12. 10. 2026
 1010
 import time
 import math
